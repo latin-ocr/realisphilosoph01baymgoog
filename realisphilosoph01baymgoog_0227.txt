@@ -1,0 +1,46 @@
+212 ns rurrmro. ‚ [car. ιι.
+
+non impedit rigorosam [equalitatem. Ergo infinitum manetnon
+solum infinitum, sed omnino aeque infinitum et sibi perfecte
+aequale, etiamsi illi tollatur pars finita. Quod autem sine muta·
+tione aufertur, sine mutatione restitui potest, et ideo infinitum
+manet idem, etiam si ei addatur aliquid finitum. Et confirmari
+potest ratione obvia Nam quum infinita series unitatum non
+habeat rationem finitam ad unitatem, sublata unitate servat
+suam rationem essendi. Aliis verbis, finitum nullam habetpro·
+portionem ad infinitum, ergo finitum nequit causare mutationem
+valoris in infinito.
+
+21. Obiicim 1⁰. Series proposita non est infinita, sed tantum
+indefinita. Non enim potest tota sumi.
+ἡ Respondes a. ant. Nam indefinitum non excludit terminum:
+haec autern series ex natura operationis ex qua oritur est sirn-
+pliciter sine fine, seu formaliter excludens finem: ergo est vere
+et proprie infinita. Ad rationem additam dat. unt. non
+¹ potest tofa sumi per processum successivum, sicut nec potest
+tota scribi, quia hic processus semper relinquit aliquid extra,
+conc. ant. non potest tota sumi uno actu, negando eius limitem
+a. ant. et coos. Ratio est quia, licet practice series successive
+evolvatur, et pars scripta sit semper finita ac pars scribenda in-
+finita, quod proprium est infiniti in potentia, attamen haec omnia
+
+scribenda iure omnino concipimus tamquam actu existentia in
+serie, ex necessitate arithmetica negandi limitem seriei.
+
+Quod vero series eiusmodi possit tota sumi, sic directe osten·
+ditur. Si repraesentando seriem 0‚3333 . . . . per a, invenia-
+mus κει, valor a repraesentabit evidenter totum valorem seriei
+infinitae. Atqui invenitur (σεξ. Nam exaequatione
+
+a=0‚33333 .· . . .
+multiplicando hinc et inde per 10, obtinetur 10a=3,3333 . . . .
+idest 3 10ae=3÷e
+unde Ι 9oe=3
+et consequenter 22:31.
+
+Hic ergo valor est fixus, et quidem qualis debet esse pro tota
+
+serie, non pro eius parte finita. Si enirn non sumsimus totam
+
+ 
+

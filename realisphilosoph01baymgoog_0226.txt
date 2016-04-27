@@ -1,0 +1,48 @@
+car. ra] na rurrurro. 211
+
+loco comodum cctoosioacm rotiouic illiue, quo vocatur albedo:
+secundum aliud tamen, seu comodum eoae notare marialis, res
+finita dicitur, scilicet intensive.
+
+CAPUT II.
+DE INFINITI PROPRIETATIBUS.
+
+20. Quaeritur primo, co mutetur valore infinitum per additionem
+cel subtractionem finiti.
+
+Respondec‚ infinitum, stricte loquendo, non mutari formaliter,
+immo nec materialiter per additionem finiti. Quod quia necesse
+
+est bene intelligere, demonstratione mathematica clara et facili
+
+utar. Sit dividenda unitas per 3. Procedendo per notas deci·
+males, habebitur quotiens sine fine continuandus, id est, cuius
+partes partium non habent finem, videlicet
+,ποῶ-13333. . . .eiocsine,· .
+. quod est evidens per arithmeticam, et a pueris ipsis intelligitur.
+Iam si utrumque membrum aquationis multiplicetur per 3, ex-
+surget
+1=0‚9999999 . . ..
+quae aequatio erit rigoroso, si series decimalium intelligatur in
+infinitum sa extendere.
+Si nunc utrumque membrum multiplicatur per 10, 100, 1000,
+. . . . erunt successive
+10=9,999999. . . .
+100=99,99999 . . . .
+
+1000=999,99999 . .. .
+ita ut transferantur semper tot notae 9 ad sinistram, quot haben-
+
+tur 0 post unitatem in primo membro. Si ergo concipiantur in
+primo membro addita infinita zero, transferri concipiemus omnes
+notas 9 ad sinistram, et disparebit pars decimalis: unde erit
+100000 . . . .=99999....
+
+ln hac antem aequatione, quaeest rigoroso, dummodo utrum·
+que membrum concipiatur in infinitum continuari, evidenter
+primum membrum una unitate differt a secundo: et hoc tamen
+
+r 2
+
+ 
+

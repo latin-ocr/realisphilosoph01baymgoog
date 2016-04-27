@@ -1,0 +1,47 @@
+car. aa] nn mammo.
+
+1÷(1÷1)÷(a÷1)÷(3÷1)÷(4÷1)÷ ·····
+idest 1÷2÷3÷4÷5÷ ......
+
+quare prior series, addita secunda, mansit eadem quoad rem,
+licet partes quaa unum locum occupabant in diversam sedem
+migraverint, quod est prorsus accidentale seriei infinitae, ut
+patet.
+
+32. Quaeritur octavo, atrum per oppositicrwm ad infinitum
+admitti possit conceptas infinitesimi, scu infinite parvi.
+
+Respondeo affirmative: θῖ dico, infinite parvum, sicut et in·
+finite magnum dici tantum relative, licet infinitum et infini-
+tesimum accipi possint etiam absolute. Ratio est, quia magnum
+θῖ parvum non sunt ut sic aliquid absolutum, sed relativum.
+Dicitur ergo aliquid infinite parvum relate ad aliud, quando in·
+finite deficit ah illo ratione magnitudinis, idest, quando per sui
+additionem non valet augere id cui additur. Et sic quodlibet
+finitum est infinite parvum in comparatione ad infinitum, quia,
+ut dictum est, non crescit infinitum per additionem finiti. Simi-
+liter concipi potest aliquid infinite parvum in comparatione ad
+
+finitum. Accepta enirn iterum serie
+q.'=0,333333 . .. sinc fiac,
+
+quae est rigorose vera, multiplicando utrumque membrum requa-
+tionis per 3, habebimus aequationem rigorose veram
+
+1:0,999999 . . . . aiae fiae.
+
+Necesse est igitur dicere, quod continuando hanc seriem in in·
+finitum, illud quod deerit ad aequalitatem erit eiusmodi, ut ex
+eius defectu nihil perdatur de rigorose aequalitate 3 sienim aliter
+esset, aliquid deficeret in aequatione rigorose vera: quod nequit
+fieri. Nihil ergo deficit, quando series concipitur infinita, et
+consequenter illud tale, quod sine damno rigorosae aequalitatis
+deest, est proprie nihil respectu eius quod sine sui mutatione eo
+carere potest. llt ideo ¹exactissime operantur mathematici,
+quando infinitesimum negligunt in comparatione quantitatis
+
+finitae, Λθῖ ipsum infinitum in comparatione ad infinitum superi·
+cris ordinis.
+
+ 
+

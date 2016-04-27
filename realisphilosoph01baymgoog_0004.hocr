@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./realisphilosoph01baymgoog_0004.png"; bbox 0 0 802 1246; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 266 516 539 616">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 266 516 539 616">
+     <span class='ocr_line' id='line_1_1' title="bbox 297 516 510 542; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 297 517 362 542; x_wconf 81' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 375 516 510 542; x_wconf 87' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 266 555 539 616; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 266 591 331 616; x_wconf 89' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_4' title='bbox 344 555 539 616; x_wconf 46' lang='lat' dir='ltr'>UngERSITY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 274 632 533 658">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 274 632 533 658">
+     <span class='ocr_line' id='line_1_3' title="bbox 274 632 533 658; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 274 633 316 658; x_wconf 89' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_6' title='bbox 332 632 533 658; x_wconf 87' lang='lat' dir='ltr'>CALIFORNIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 252 712 552 785">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 252 712 552 785">
+     <span class='ocr_line' id='line_1_4' title="bbox 330 712 475 727; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 330 713 442 727; x_wconf 71' lang='lat' dir='ltr'>PRESENTED</span> <span class='ocrx_word' id='word_1_8' title='bbox 449 712 475 727; x_wconf 73' lang='grc' dir='ltr'>ΒΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 252 740 552 756; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 252 742 307 755; x_wconf 78' lang='lat' dir='ltr'>PROF.</span> <span class='ocrx_word' id='word_1_10' title='bbox 311 741 398 756; x_wconf 67' lang='lat' dir='ltr'>CHAmJ-LS</span> <span class='ocrx_word' id='word_1_11' title='bbox 403 741 422 755; x_wconf 82' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_12' title='bbox 426 742 504 756; x_wconf 78' lang='lat' dir='ltr'>KOFOID</span> <span class='ocrx_word' id='word_1_13' title='bbox 509 740 552 755; x_wconf 77' lang='lat' dir='ltr'>ANB</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 270 771 534 785; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 270 771 313 785; x_wconf 57' lang='lat' dir='ltr'>MR&amp;</span> <span class='ocrx_word' id='word_1_15' title='bbox 318 771 422 785; x_wconf 76' lang='lat' dir='ltr'>PRUDENOE</span> <span class='ocrx_word' id='word_1_16' title='bbox 427 771 452 785; x_wconf 90' lang='lat' dir='ltr'>W.</span> <span class='ocrx_word' id='word_1_17' title='bbox 457 771 534 785; x_wconf 69' lang='lat' dir='ltr'>Koron)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
